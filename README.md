@@ -765,9 +765,7 @@ return (
 export default App;
 ```
 
-After pasting, exit the editor.
-
-In the src directory open the `App.css`
+Next, in the src directory open the `App.css`
 
 ```
 $ vi App.css
@@ -912,17 +910,15 @@ On the AWS Management Console, navigate to the EC2 Dashboard and terminate the U
 
 ![](./images/awsterminate.png)
 
-Next, visit the mlab website and terminate the database.
+Next, visit the [mLab](https://www.mongodb.com/atlas-signup-from-mlab) website and terminate the database.
 
 ![](./images/databasedel.png)
 
 
-
 ----------------------------------------------------------------------
 
-Wonderful job! Thank you for viewing my project and following along. I demonstrated how to create a simple To-Do and deploy it to MERN stack. First, we wrote a frontend application using React.js that communicates with a backend application written using Expressjs. Next, we created a Mongodb backend for storing tasks in a database.
+Wonderful job! Thank you for viewing my project and following along. I demonstrated how to create a simple To-Do and deploy it to MERN stack. First, we wrote a frontend application using React.js that communicates with a backend application written using ExpressJS. Next, we created a Mongodb backend for storing tasks in a database.
 
 I hope you enjoyed it! For more details on similar projects and more, please visit my GitHub portfolio: https://github.com/ceciliacloud
 
 ![](./images/congrats.gif)
-# Project10-MERN
